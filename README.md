@@ -1,7 +1,7 @@
 # Hi, I'm Aarya 👋
 
 Computer Science student at Rutgers.
-Interested in software engineering, backend systems, and quantitative roles.
+Interested in building applications that make peoples lives easier!
 
 ## Skills
 - Java, JavaScript, Python, HTML, CSS
