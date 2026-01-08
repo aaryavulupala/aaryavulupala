@@ -9,7 +9,7 @@ Interested in building applications that make peoples lives easier!
 - Git, Firebase, Netlify, MATLAB
 
 ## Projects
-- Lead Saver — Chrome Extension & Web App
+- Sales Lead Saver — Chrome Extension & Web App
 - Fingerprint Authenticator 
 
 ## Contact
