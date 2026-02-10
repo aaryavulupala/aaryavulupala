@@ -4,9 +4,11 @@ Computer Science student at Rutgers.
 Interested in machine learning, data science, and backend/fullstack software development to make peoples lives easier.
 
 ## Skills
-- Java, JavaScript, Python, HTML, CSS
-- Data Structures & Algorithms, OOP, ADTs
-- Git, Firebase, Netlify, MATLAB
+Languages: Java, JavaScript, TypeScript, Python, SQL, HTML, CSS
+Frameworks: ReactJS, ExpressJS, NextJS, Spring Boot, Flask, Django
+Developer Tools: NodeJS, Vercel, Git, GitHub, Streamlit, Tableau, AWS, VSCode, JUnit, Netlify, MATLAB, LaTeX
+Databases: Supabase, PostgreSQL, MongoDB, Firebase
+Libraries: NumPy, pandas, Scikit-learn, Tailwind CSS
 
 ## Projects
 - Data Science Salary Estimator
