@@ -1,7 +1,7 @@
 # Hi, I'm Aarya 👋
 
 Computer Science student at Rutgers.
-Interested in building applications that make peoples lives easier!
+Interested in machine learning, data science, and backend/fullstack software development to make peoples lives easier.
 
 ## Skills
 - Java, JavaScript, Python, HTML, CSS
@@ -9,8 +9,9 @@ Interested in building applications that make peoples lives easier!
 - Git, Firebase, Netlify, MATLAB
 
 ## Projects
-- Sales Lead Saver — Chrome Extension & Web App
-- Fingerprint Authenticator 
+- Data Science Salary Estimator
+- BlueprintML: House Price Prediction System
+- SecureNotes App
 
 ## Contact
 - LinkedIn: [link](https://www.linkedin.com/in/aarya-vulupala/)
