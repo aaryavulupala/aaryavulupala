@@ -1,6 +1,6 @@
 # Hi, I'm Aarya 👋
 
-Computer Science and Data Science student at Rutgers interested in integrating and building technology such as software products and AI products to make peoples lives easier!
+Computer Science and Data Science student at Rutgers interested in integrating and building technology such as software and AI products to make peoples lives easier!
 
 ## Skills
 Languages: Java, Python, JavaScript, TypeScript, SQL, C, HTML/CSS
