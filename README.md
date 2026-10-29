@@ -1,19 +1,17 @@
 # Hi, I'm Aarya 👋
 
-Computer Science student at Rutgers.
-Interested in working with machine learning, data science, cloud technologies, and backend/fullstack software development to make peoples lives easier.
+Computer Science and Data Science student at Rutgers interested in integrating and building technology such as software products and AI products to make peoples lives easier!
 
 ## Skills
-Languages: Java, JavaScript, TypeScript, Python, SQL, HTML, CSS
-Frameworks: ReactJS, ExpressJS, NextJS, Spring Boot, Flask, Django, FastAPI
-Developer Tools: NodeJS, Vercel, Git, GitHub, Streamlit, Tableau, AWS, VSCode, JUnit, Netlify, MATLAB, LaTeX
-Databases: Supabase, PostgreSQL, MongoDB, Firebase
-Libraries: NumPy, pandas, Scikit-learn, Tailwind CSS
+Languages: Java, Python, JavaScript, TypeScript, SQL, C, HTML/CSS
+Libraries/Frameworks: React, Next.js, Node.js, Spring Boot, FastAPI, pandas, NumPy, scikit-learn, XGBoost, TensorFlow
+Cloud/Databases: AWS (EC2, S3, RDS, Lambda), PostgreSQL, MySQL, Firebase, Supabase, REST APIs
+Tools: Git, GitHub, Databricks, CI/CD, Postman, Claude Code, Codex, Cursor
 
 ## Projects
-- ShopDormly.com
-- Barbershop Booking site(AI Customer support, digital payments, calendar syncing)
-- Machine learning NBA Prospect & Career Predictor
+- ShopDormly.com (Framework - Next.js, Frontend - TypeScript & React, Database - PostgreSQL, User media storage - AWS S3 Buckets)
+- Barbershop Booking site (Gemini API - AI Customer support, digital payments - Stripe, calendar syncing)
+- ML NBA Prospect & Career Predictor (Data pipeline - Python, Pandas, NumPy, Models - scikit-learn, XGBoost, TensorFlow, Explainability - SHAP)
 
 ## Contact
 - LinkedIn: [link](https://www.linkedin.com/in/aarya-vulupala/)
